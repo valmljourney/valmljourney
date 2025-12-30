@@ -13,7 +13,7 @@ I'm a third-year Computer Science student interested in software engineering and
 - ML: scikit-learn, Transformers, Hugging Face
 - Tools: Git, Linux
 
-### 🚀 Projects
+### ⭐️ Projects
 - Toxicity Detector (fine-tuned BERT and explainability with LIME)
 - Emotion Classifier (ML pipeline with scikit-learn and Frontend UI with Streamlit)
 - Fake Review Detector (TF-IDF + Logistic Regression)
