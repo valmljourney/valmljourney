@@ -11,7 +11,7 @@ I'm a third-year Computer Science student interested in software engineering and
 ### 🛠️ Tech Stack
 - Languages: Python, C, SQL
 - ML: scikit-learn, Transformers, Hugging Face
-- Tools: Git, Linux
+- Tools: Git, Linux, VIM
 
 ### ⭐️ Projects
 - Toxicity Detector (fine-tuned BERT and explainability with LIME)
