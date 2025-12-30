@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm valmljourney!
 
-Third-year Computer Science student interested in software engineering and especially machine learning
+I'm a third-year Computer Science student interested in software engineering and especially machine learning! 😄
 
 ### 🌱 About me
-- Third-year CS student
-- Interested in Machine Learning and Backend Development
-- Built ML projects using scikit-learn and fine-tuned transformer models
+- 🎓 I'm currently a third-year CS student
+- I'm interested in Machine Learning and Backend Development
+- I built ML projects using scikit-learn and fine-tuned transformer models
 - 🔍 Looking for a 4–5 month internship starting Summer 2026 in ML or Backend
 
 ### 🛠️ Tech Stack
-- Languages: Python, C, SQL, C#
+- Languages: Python, C, SQL
 - ML: scikit-learn, Transformers, Hugging Face
 - Tools: Git, Linux
 
 ### 🚀 Projects
-- Toxicity Detector (fine-tuned BERT, explainability with SHAP/LIME)
-- Emotion Classifier (ML pipeline with Streamlit)
+- Toxicity Detector (fine-tuned BERT and explainability with LIME)
+- Emotion Classifier (ML pipeline with scikit-learn and Frontend UI with Streamlit)
 - Fake Review Detector (TF-IDF + Logistic Regression)
 
 <!--
